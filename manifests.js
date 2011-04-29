@@ -927,7 +927,7 @@
         {
             "developer": "baadnewz",
             "free": "true",
-            "id": "baadnewz",
+            "id": "baadnewz_old",
             "manifest": "http://baadnewz.lcdc.sk/rommanifest.js",
             "roms": {
                 "bravo": "true" 
